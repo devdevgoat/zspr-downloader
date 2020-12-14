@@ -7,7 +7,7 @@ __pycache__/
 *.zspr
 
 #json_file
-sprites_list.json
+sprites_list*.json
 # C extensions
 *.so
 
