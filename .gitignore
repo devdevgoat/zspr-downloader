@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#images
+*.zspr
+
+#json_file
+sprites_list.json
 # C extensions
 *.so
 
